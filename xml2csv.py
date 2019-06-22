@@ -10,6 +10,7 @@ xml_file = os.path.join(base_path, "testovaci_nusl\\https___invenio.nusl.cz_oai2
 tree = et.parse(xml_file)
 
 root = tree.getroot()
+
 """
 for element in root:
 	print("element", element.tag, element.attrib, element.text, ";")
@@ -22,21 +23,21 @@ for element in root:
 				for field in subelement:
 					print("filed", field.tag, ":", field.text)
 					for subfield in field:
-						subelement.findtext("999")
-						print("subfield", subfield.tag, ":",  subfield.attrib)
+						print("subfield", subfield.tag, ":",  subfield.attrib, ":", subfield.text)
+						#subfield co je ve skutečnosti field, tag je "{}datafield, jeho atributy jsou označení polí i s indikátory  a nemá text
 						for obsah in subfield:
 							print("obsah", obsah.tag,":", obsah.attrib, ":" ,obsah.text)
-	
-	#    v tagu je "subfield", attribute je kod podpole a text je konečně obsah pole, co potřebuju zapsat do csv
+						# obsah má tag "subfield", atribut označení podpole {'code':'a'} a text je konečně hodnota pole, co potřebuju zapsat do csv
 """
-for field in root.iter('{http://www.loc.gov/MARC21/slim}datafield'):
-	field_999 = field.findall('tag="999" ind1="C" ind2="1"')
+for field in root.findall('{http://www.loc.gov/MARC21/slim}datafield'):
+	print(field.attrib)
+	field_999 = field.get("{'tag': '999', 'ind1': 'C', 'ind2': '1'}")
 	print(field_999)
-	for subfield in root.iter('{http://www.loc.gov/MARC21/slim}subfield'):
-		print(subfield.attrib, ":", subfield.text)
+	#for subfield in field_999.iter('{http://www.loc.gov/MARC21/slim}subfield'):
+#		print(subfield.attrib, ":", subfield.text)
 		
-
-"""output = open('nusl.csv', 'w')
+"""
+output = open('nusl.csv', 'w')
 list_head = []
 csv_writer = csv.writer(output)"""
 

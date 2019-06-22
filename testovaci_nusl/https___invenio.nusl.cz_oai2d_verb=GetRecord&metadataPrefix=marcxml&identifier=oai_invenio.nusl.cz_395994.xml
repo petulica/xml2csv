@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://invenio.nusl.cz/css/oai2.xsl.v1.0" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2019-06-22T14:54:43Z</responseDate><request verb="GetRecord" metadataPrefix="marcxml" identifier="oai:invenio.nusl.cz:395994">http://invenio.nusl.cz/oai2d</request><GetRecord>
+<record><header><identifier>oai:invenio.nusl.cz:395994</identifier><datestamp>2019-06-11T05:52:59Z</datestamp><setSpec>global</setSpec></header><metadata><marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic">
+     <marc:leader>00000coc  2200000uu 4500</marc:leader>
+  <marc:controlfield tag="001">395994</marc:controlfield>
+  <marc:controlfield tag="005">20190611102340.0</marc:controlfield>
+  <marc:datafield tag="035" ind1=" " ind2=" ">
+    <marc:subfield code="a">oai:asep.lib.cas.cz:CavUnEpca/0505388</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2="7">
+    <marc:subfield code="a">cze</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="046" ind1=" " ind2=" ">
+    <marc:subfield code="k">2019</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Kvalita práce učitelů, vzdělanost, ekonomický růst a prosperita České republiky</marc:subfield>
+    <marc:subfield code="b">Teaching quality, education, economic growth and prosperity in the Czech Republic</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">56 s.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="490" ind1="0" ind2=" ">
+    <marc:subfield code="a">Studie IDEA</marc:subfield>
+    <marc:subfield code="v">5/2019</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="520" ind1=" " ind2=" ">
+    <marc:subfield code="a">Tato studie vyčísluje, co současná česká společnost do budoucna po finanční stránce obětuje, když není schopna, respektive ochotna investovat více prostředků a systémového úsilí do zvyšování kvality práce učitelů. Naše simulované odhady ukazují, že finanční rozsah této obětované příležitosti je obrovský. Vysvětlit paradox vysokých nerealizovaných společenských výnosů lze různě. Buď si velikost ušlých výnosů z kvalitnějšího vzdělání česká společnost dosud dostatečně neuvědomuje, nebo velká část uvažuje v příliš krátkém časovém horizontu. Anebo český politicko-vzdělávací systém není schopen povědomí o velké obětované příležitosti promítat do konkrétních opatření a investic.</marc:subfield>
+    <marc:subfield code="9">cze</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="520" ind1=" " ind2=" ">
+    <marc:subfield code="a">This study reports in detail on how Czech society will suffer financially in the future if it is unable, or unwilling, to invest greater resources and systemic efforts into improving teaching quality. Our simulated estimates demonstrate that the financial impact of foregoing potential improvement would be huge. The paradox of this high level of unrealized societal gain can be explained in various ways. Either Czech society is still insufficiently aware of the extent of the societal advantages that they forgo by failing to improve teaching quality, or a substantial part of the society is currently failing to consider the long-term impact. It may also be that the Czech political-educational system is currently unable to translate a realization of the extent of this loss into concrete measures and investments.</marc:subfield>
+    <marc:subfield code="9">eng</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="653" ind1="0" ind2=" ">
+    <marc:subfield code="a">teaching quality</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="653" ind1="0" ind2=" ">
+    <marc:subfield code="a">education</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="653" ind1="0" ind2=" ">
+    <marc:subfield code="a">Czech Republic</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="655" ind1="7" ind2=" ">
+    <marc:subfield code="a">Výzkumné zprávy</marc:subfield>
+    <marc:subfield code="2">NUŠL typ dokumentu</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="720" ind1=" " ind2=" ">
+    <marc:subfield code="a">Münich, Daniel</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="720" ind1=" " ind2=" ">
+    <marc:subfield code="i">Krajčová, Jana</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="720" ind1=" " ind2=" ">
+    <marc:subfield code="i">Protivínský, T.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1="4" ind2="0">
+    <marc:subfield code="z">Odkaz na původní záznam</marc:subfield>
+    <marc:subfield code="u">http://hdl.handle.net/11104/0296838</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1="4" ind2="0">
+    <marc:subfield code="u">http://www.nusl.cz/ntk/nusl-395994</marc:subfield>
+    <marc:subfield code="z">PID NUŠL</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="909" ind1="C" ind2="O">
+    <marc:subfield code="o">oai:invenio.nusl.cz:395994</marc:subfield>
+    <marc:subfield code="p">global</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="970" ind1=" " ind2=" ">
+    <marc:subfield code="a">0505388</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="980" ind1=" " ind2=" ">
+    <marc:subfield code="a">vyzkumne_zpravy</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="996" ind1=" " ind2=" ">
+    <marc:subfield code="a">Dokument je dostupný v repozitáři Akademie věd.</marc:subfield>
+    <marc:subfield code="b">Fulltext is available in the digital repository of the Academy of Sciences.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="998" ind1=" " ind2=" ">
+    <marc:subfield code="a">narodohospodarsky_ustav</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="999" ind1="C" ind2="1">
+    <marc:subfield code="a">StrategieAV21/13</marc:subfield>
+    <marc:subfield code="b">AV ČR</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="999" ind1="C" ind2="1">
+    <marc:subfield code="a">GBP402/12/G130</marc:subfield>
+    <marc:subfield code="b">GA ČR</marc:subfield>
+  </marc:datafield>
+</marc:record>
+</metadata></record></GetRecord>
+</OAI-PMH>
+

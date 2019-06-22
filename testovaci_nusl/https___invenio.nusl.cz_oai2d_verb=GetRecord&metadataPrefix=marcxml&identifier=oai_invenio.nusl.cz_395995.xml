@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://invenio.nusl.cz/css/oai2.xsl.v1.0" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2019-06-22T14:53:51Z</responseDate><request verb="GetRecord" metadataPrefix="marcxml" identifier="oai:invenio.nusl.cz:395995">http://invenio.nusl.cz/oai2d</request><GetRecord>
+<record><header><identifier>oai:invenio.nusl.cz:395995</identifier><datestamp>2019-06-11T05:52:59Z</datestamp><setSpec>global</setSpec></header><metadata><marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic">
+     <marc:leader>00000coc  2200000uu 4500</marc:leader>
+  <marc:controlfield tag="001">395995</marc:controlfield>
+  <marc:controlfield tag="005">20190611102340.0</marc:controlfield>
+  <marc:datafield tag="035" ind1=" " ind2=" ">
+    <marc:subfield code="a">oai:asep.lib.cas.cz:CavUnEpca/0505395</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2="7">
+    <marc:subfield code="a">eng</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="046" ind1=" " ind2=" ">
+    <marc:subfield code="k">2019</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Possibilities of using 3D laser scanning in geotechnical practise</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">8 s.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="520" ind1=" " ind2=" ">
+    <marc:subfield code="a">We are experiencing the penetration of modern and smart technologies in all sectors of human activity, including mining and geotechnics. One of these technologies is 3D laser scanning, which has seen significant technological advancements over the last decade and has become an integral part of underground construction monitoring as a tool to enable comprehensive, accurate and unbiased capture of the spatial situation in digital form. This development was behind the fact that since 2013, 3D laser scanner has been used by the Institute of Geonics of the Czech Academy of Sciences as a necessary part of the geotechnical monitoring of mine works, when it is possible to precisely detect and quantify the time-space changes caused by man's intervention in the rock mass compared to the traditional established measuring methods. A leading project of recent years was the monitoring of the strain stress state of the rock massif during the 30th seam extraction during the trial operation of the Room and Pillar extraction method in the CSM Mine shaft safety pillar where, besides many other measuring instruments, 3D laser scanning was used for the convergence measuring of roadways, especially for capturing any deformation changes on the permanent pillars. A complementary function was the comparative evaluation with the results of other tools, e.g. with data measured by horizontal extensometers. The subject of the article will be a general description of the possibilities of using 3D laser scanning in geotechnical practice on spatial data acquired during the monitoring lasting almost 3.5 years, when important phenomena were detected in the movement of the pillar walls and the floor heave in the CSM Mine in the tens of cm, sometimes up to 100 cm.</marc:subfield>
+    <marc:subfield code="9">eng</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="653" ind1="0" ind2=" ">
+    <marc:subfield code="a">3D laser scanning</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="653" ind1="0" ind2=" ">
+    <marc:subfield code="a">room and pillar</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="653" ind1="0" ind2=" ">
+    <marc:subfield code="a">roadways deformation</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="655" ind1="7" ind2=" ">
+    <marc:subfield code="a">Příspěvky z konference</marc:subfield>
+    <marc:subfield code="2">NUŠL typ dokumentu</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="711" ind1="2" ind2=" ">
+    <marc:subfield code="a">Podzemní stavby Praha 2019</marc:subfield>
+    <marc:subfield code="c">Praha (CZ)</marc:subfield>
+    <marc:subfield code="d">20190603</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="720" ind1=" " ind2=" ">
+    <marc:subfield code="a">Kukutsch, Radovan</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="720" ind1=" " ind2=" ">
+    <marc:subfield code="i">Kajzar, Vlastimil</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="720" ind1=" " ind2=" ">
+    <marc:subfield code="i">Šňupárek, Richard</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="720" ind1=" " ind2=" ">
+    <marc:subfield code="i">Waclawik, Petr</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="773" ind1="1" ind2=" ">
+    <marc:subfield code="z">978-80-906452-3-3</marc:subfield>
+    <marc:subfield code="t">Proceedings of the 14th International Conference Underground Construction Prague 2019</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1="4" ind2="0">
+    <marc:subfield code="z">Odkaz na původní záznam</marc:subfield>
+    <marc:subfield code="u">http://hdl.handle.net/11104/0296865</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1="4" ind2="0">
+    <marc:subfield code="u">http://www.nusl.cz/ntk/nusl-395995</marc:subfield>
+    <marc:subfield code="z">PID NUŠL</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="909" ind1="C" ind2="O">
+    <marc:subfield code="o">oai:invenio.nusl.cz:395995</marc:subfield>
+    <marc:subfield code="p">global</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="970" ind1=" " ind2=" ">
+    <marc:subfield code="a">0505395</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="980" ind1=" " ind2=" ">
+    <marc:subfield code="a">prispevky_z_konference</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="996" ind1=" " ind2=" ">
+    <marc:subfield code="a">Dokument je dostupný v příslušném ústavu Akademie věd ČR.</marc:subfield>
+    <marc:subfield code="b">Fulltext is available at the institute of the Academy of Sciences.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="998" ind1=" " ind2=" ">
+    <marc:subfield code="a">ustav_geoniky</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="999" ind1="C" ind2="1">
+    <marc:subfield code="a">LO1406</marc:subfield>
+    <marc:subfield code="b">GA MŠk</marc:subfield>
+  </marc:datafield>
+</marc:record>
+</metadata></record></GetRecord>
+</OAI-PMH>
+
