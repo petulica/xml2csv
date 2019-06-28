@@ -16,7 +16,8 @@ for file in os.listdir(directory):
 
     with open('NUSL.csv', 'a') as csvFile:
         writer = csv.writer(csvFile, delimiter=";")
-        writer.writerow(row)
+        if int(row[3]) >= 2014 and int(row[3]) != 2019:
+            writer.writerow(row)
 
 csvFile.close()
 

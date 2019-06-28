@@ -43,7 +43,7 @@ def projects(root):
 
 
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
     # langs()
     # year()
     # doc_type()
