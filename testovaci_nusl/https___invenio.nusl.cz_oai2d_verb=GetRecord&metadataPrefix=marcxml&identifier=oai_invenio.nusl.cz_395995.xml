@@ -13,7 +13,7 @@
     <marc:subfield code="a">eng</marc:subfield>
   </marc:datafield>
   <marc:datafield tag="046" ind1=" " ind2=" ">
-    <marc:subfield code="k">2019</marc:subfield>
+    <marc:subfield code="k">2018</marc:subfield>
   </marc:datafield>
   <marc:datafield tag="245" ind1="0" ind2="0">
     <marc:subfield code="a">Possibilities of using 3D laser scanning in geotechnical practise</marc:subfield>
@@ -91,4 +91,3 @@
 </marc:record>
 </metadata></record></GetRecord>
 </OAI-PMH>
-

@@ -12,9 +12,10 @@
   </marc:datafield>
   <marc:datafield tag="041" ind1="0" ind2="7">
     <marc:subfield code="a">cze</marc:subfield>
+    <marc:subfield code="b">ita</marc:subfield>
   </marc:datafield>
   <marc:datafield tag="046" ind1=" " ind2=" ">
-    <marc:subfield code="k">2009</marc:subfield>
+    <marc:subfield code="k">2014</marc:subfield>
   </marc:datafield>
   <marc:datafield tag="245" ind1="0" ind2="0">
     <marc:subfield code="a">Základy aplikované ergonomie</marc:subfield>
@@ -98,4 +99,3 @@
 </marc:record>
 </metadata></record></GetRecord>
 </OAI-PMH>
-
