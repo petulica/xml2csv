@@ -48,9 +48,8 @@ def projects(root):
     result = []
     for field in fields:
         for subfield in field:
+            #C1 = C1['ind2']
+            #if subfield.tag[C1] == "1" and subfield.attrib["code"] == "a":
             if subfield.attrib["code"] == "a":
                 result.append(subfield.text)
     return result
-
-
-
