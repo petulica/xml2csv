@@ -47,9 +47,8 @@ def projects(root):
     fields = root.findall(".//{http://www.loc.gov/MARC21/slim}datafield[@tag='999']")
     result = []
     for field in fields:
-        for subfield in field:
-            #C1 = C1['ind2']
-            #if subfield.tag[C1] == "1" and subfield.attrib["code"] == "a":
-            if subfield.attrib["code"] == "a":
-                result.append(subfield.text)
+        if field.attrib["ind2"] == "1":
+            for subfield in field:
+                if subfield.attrib["code"] == "a":
+                    result.append(subfield.text)
     return result
