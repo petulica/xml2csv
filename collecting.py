@@ -7,7 +7,7 @@ from xml2csv_openaire import identifier, doc_type, langs, year, projects
 
 BASE = os.path.dirname(__file__)
 directory = os.path.join(BASE, "testovaci_nusl")
-xml_path = "H:/datova_analyza/RIV"
+xml_path = "H:/openaire_data"
 
 with open('OpenAIRE.csv', 'a',  newline='') as csvFile:
     writer = csv.writer(csvFile, delimiter=";")
@@ -18,10 +18,8 @@ with open('OpenAIRE.csv', 'a',  newline='') as csvFile:
 # input_path = "/Users/xah/web/xahlee_info/python/"
 
 def extracting_data(file):
-    i = 1
     # for file in os.listdir(xml_path):
-    print(i)
-    i += 1
+
     print(file)
     try:
         with open(file, encoding="utf8") as f:
@@ -40,10 +38,14 @@ def extracting_data(file):
     except Exception as e:
         print(e)
         with open("errors_aire.txt", "a") as err:
-            err.write(f"{file} \n")
+            err.write(f"{file}: {str(e)} \n")
+    csvFile.close()
 
+i = 1
 for dir_path, subdir_list, file_list in os.walk(xml_path):
     for fname in file_list:
+        print(i)
+        i += 1
         full_path = os.path.join(dir_path, fname)
         extracting_data(full_path)
 
