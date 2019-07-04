@@ -1,0 +1,542 @@
+id;doc_type;langs;year;projects;no_of_projects
+;['Book', 'Preprint'];eng;2014;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article'];und;2016;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Report'];eng;2016;[];0
+;['Bachelor thesis'];spa;2018;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Doctoral thesis', 'Doctoral thesis'];eng;2016;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article'];eng;2015;[];0
+;['Doctoral thesis', 'Doctoral thesis'];lit;2015;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Article', 'Preprint'];eng;2018;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];eng;2015;['260729'];1
+;['Conference object'];eng;2017;[];0
+;['Article', 'Article', 'Article'];und;2016;[];0
+;['Article', 'Preprint', 'Article'];eng;2017;['MR/P006639/1'];1
+;['Article', 'Article'];eng;2014;[];0
+;['Doctoral thesis'];eng;2015;[];0
+;['Doctoral thesis', 'Doctoral thesis'];eng;2017;[];0
+;['Article', 'Article', 'Article'];eng;2018;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];spa;2016;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Conference object', 'Conference object', 'Conference object', 'Conference object'];eng;2018;[];0
+;['Article'];und;2016;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article', 'Article'];eng;2016;[];0
+;['Article', 'Article', 'Article', 'Article'];eng;2018;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article', 'Article'];eng;2015;['084273', '078317', '2300154809', '242107'];4
+;['Article', 'Article'];eng;2017;['2P30CA008748-43'];1
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article', 'Article', 'Article'];eng;2015;['091593', '098362'];2
+;['Doctoral thesis', 'Doctoral thesis'];fra/fre;2015;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2017;['LP110100569'];1
+;['Report', 'Article'];eng;2018;[];0
+;['Article', 'Other literature type'];eng;2018;[];0
+;['Preprint', 'Preprint'];eng;2014;[];0
+;['Article'];eng;2018;[];0
+;['Article', 'Preprint', 'Article'];eng;2016;[];0
+;['Article', 'Article', 'Article'];eng;2014;[];0
+;['Article', 'Article', 'Article', 'Article', 'Article', 'Article'];eng;2016;['3P40OD018537-04S1', '087675'];2
+;['Master thesis'];tur;2018;[];0
+;['Other literature type', 'Article'];eng;2016;[];0
+;['Master thesis', 'Master thesis'];nob;2015;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];por;2017;[];0
+;['Article', 'Article', 'Article', 'Article'];eng;2014;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Other literature type', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2017;['2R01NS065069-05A1'];1
+;['Article', 'Article', 'Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];fra/fre;2017;[];0
+;['Article', 'Article', 'Article'];eng;2015;['637406', '637315'];2
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article'];dut/nld;2017;[];0
+;['Article', 'Article', 'Article', 'Article'];eng;2014;[];0
+;['Article', 'Other literature type'];eng;2018;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Other literature type'];eng;2015;[];0
+;['Bachelor thesis', 'Bachelor thesis'];cat;2017;[];0
+;['Doctoral thesis'];eng;2014;[];0
+;['Article', 'Article'];eng;2018;['133008'];1
+;['Other literature type', 'Article'];eng;2015;[];0
+;['Conference object', 'Conference object', 'Conference object'];fra/fre;2014;[];0
+;['Article', 'Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];spa;2017;[];0
+;['Article', 'Article'];spa;2014;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];spa;2016;[];0
+;['Conference object', 'Part of book or chapter of book', 'Conference object'];eng;2017;[];0
+;['Article', 'Article'];eng;2016;['1231288', '0416164', '0819186'];3
+;['Article', 'Article', 'Article'];por;2017;[];0
+;['Article', 'Preprint'];eng;2014;['227431'];1
+;['Conference object', 'Conference object', 'Conference object'];eng;2015;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article'];eng;2017;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];esl/spa;2015;[];0
+;['Article'];eng;2017;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Other literature type'];eng;2017;[];0
+;['Article', 'Article', 'Article'];eng;2014;[];0
+;['Book', 'Other literature type', 'Article'];eng;2014;[];0
+;['Article'];eng;2015;[];0
+;['Doctoral thesis', 'Doctoral thesis'];spa;2016;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Conference object'];und;2017;[];0
+;['Master thesis'];por;2017;[];0
+;['Doctoral thesis', 'Doctoral thesis'];spa;2014;[];0
+;['Article', 'Preprint'];eng;2014;[];0
+;['Other literature type'];eng;2014;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article', 'Other literature type', 'Article'];und;2016;[];0
+;['Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article', 'Article', 'Article', 'Article'];eng;2015;[];0
+;['Article', 'Other literature type'];eng;2015;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];und;2015;[];0
+;['Research'];jpn;2016;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article'];spa;2017;[];0
+;['Article', 'Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article', 'Article'];eng;2015;[];0
+;['Article', 'Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Other literature type', 'Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];ukr;2015;[];0
+;['Conference object', 'Conference object'];eng;2017;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Doctoral thesis', 'Doctoral thesis'];fra/fre;2016;[];0
+;['Article', 'Article', 'Article', 'Article', 'Article', 'Article'];eng;2016;['306385'];1
+;['Report'];und;2016;[];0
+;['Article', 'Report', 'Article'];eng;2016;[];0
+;['Other literature type', 'Article'];eng;2018;[];0
+;['Doctoral thesis', 'Doctoral thesis', 'Doctoral thesis'];fra/fre;2017;[];0
+;['Article'];eng;2015;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Preprint'];eng;2018;[];0
+;['Bachelor thesis'];spa;2017;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Doctoral thesis', 'Doctoral thesis', 'Doctoral thesis'];fra/fre;2014;[];0
+;['Article', 'Preprint'];eng;2016;[];0
+;['Other literature type'];spa;2016;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];por;2017;['147232'];1
+;['Article', 'Other literature type'];eng;2014;[];0
+;['Article'];eng;2015;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];und;2016;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Master thesis', 'Master thesis'];spa;2017;[];0
+;['Conference object', 'Doctoral thesis'];jpn;2017;[];0
+;['Article', 'Article'];deu/ger;2017;[];0
+;['Article', 'Article', 'Article', 'Article', 'Article', 'Article', 'Article'];eng;2018;['288435'];1
+;['Article', 'Article'];eng;2014;['316086'];1
+;['Other literature type', 'Article'];eng;2018;[];0
+;['Article', 'Article', 'Article'];eng;2018;['G0900747', '075491', '090532'];3
+;['Article', 'Article', 'Other literature type'];eng;2015;['0946746'];1
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];eng;2017;['5R01DC011091-04'];1
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article', 'Article'];eng;2015;[];0
+;['Conference object', 'Article'];eng;2017;[];0
+;['Doctoral thesis', 'Doctoral thesis'];eng;2014;[];0
+;['Article'];eng;2014;[];0
+;['Article'];eng;2014;[];0
+;['Review', 'Article'];eng;2015;[];0
+;['Article', 'Article'];ukr;2015;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article'];und;2014;[];0
+;['Article', 'Other literature type', 'Article'];und;2015;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Report', 'Doctoral thesis'];und;2018;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];eng;2015;['323901', '267333', '2300154869'];3
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Part of book or chapter of book', 'Preprint'];und;2014;['1008908'];1
+;['Article', 'Article'];eng;2016;[];0
+;['Article'];eng;2015;[];0
+;['Article'];eng;2016;[];0
+;['Article', 'Article'];esl/spa;2017;[];0
+;['Article', 'Article', 'Article'];eng;2018;[];0
+;['Article', 'Article', 'Article', 'Article'];eng;2018;[];0
+;['Article'];eng;2017;[];0
+;['Article'];eng;2014;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];esl/spa;2017;[];0
+;['Bachelor thesis', 'Bachelor thesis'];cat;2014;[];0
+;['Article', 'Article', 'Article'];eng;2016;[];0
+;['Article', 'Preprint', 'Article', 'Article'];eng;2018;['322304', '261063', '108726', 'MC_UU_12024/4'];4
+;['Article', 'Article'];eng;2016;[];0
+;['Article'];und;2015;[];0
+;['Other literature type', 'Article'];eng;2018;[];0
+;['Doctoral thesis', 'Master thesis'];esl/spa;2017;[];0
+;['Article', 'Preprint', 'Article'];eng;2017;['678309'];1
+;['Article', 'Article'];cat;2014;[];0
+;['Article', 'Article'];por;2015;[];0
+;['Data Paper', 'Article', 'Article', 'Article'];eng;2017;['G1002082'];1
+;['Master thesis', 'Master thesis'];eng;2014;[];0
+;['Article', 'Other literature type'];eng;2015;['647685'];1
+;['Article', 'Article', 'Article'];eng;2015;['5R00AA017669-05', '4R01AA021763-04'];2
+;['Article', 'Preprint'];und;2015;[];0
+;['Article', 'Article'];eng;2015;['129171'];1
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Bachelor thesis', 'Bachelor thesis'];cat;2017;[];0
+;['Article', 'Article', 'Article'];fra/fre;2018;[];0
+;['Article', 'Article'];por;2016;[];0
+;['Article', 'Article', 'Article', 'Article'];eng;2018;['P2LAP3_158684', '106914', '628450'];3
+;['Article', 'Article', 'Article'];eng;2018;[];0
+;['Doctoral thesis', 'Doctoral thesis'];spa;2016;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Conference object'];und;2017;[];0
+;['Other literature type', 'Preprint'];eng;2014;[];0
+;['Article', 'Preprint'];eng;2016;[];0
+;['Article'];por;2017;[];0
+;['Article', 'Other literature type'];eng;2018;[];0
+;['Article'];eng;2015;[];0
+;['Doctoral thesis'];eng;2016;[];0
+;['Article', 'Article'];und;2017;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article', 'Article'];und;2015;[];0
+;['Article'];eng;2015;[];0
+;['Article', 'Article', 'Other literature type'];eng;2018;[];0
+;['Other literature type', 'Article', 'Article'];eng;2015;[];0
+;['Article'];eng;2017;[];0
+;['Article', 'Article'];spa;2014;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article', 'Article', 'Preprint'];eng;2015;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Article'];eng;2014;[];0
+;['Other literature type', 'Article'];eng;2018;[];0
+;['Article', 'Preprint'];eng;2017;[];0
+;['Article', 'Preprint', 'Other literature type'];eng;2015;['745722'];1
+;['Conference object'];und;2017;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Other literature type'];und;2014;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article'];por;2016;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Conference object', 'Conference object', 'Conference object'];eng;2017;[];0
+;['Part of book or chapter of book', 'Article', 'Part of book or chapter of book'];por;2014;[];0
+;['Article', 'Article', 'Other literature type'];eng;2017;[];0
+;['Other literature type', 'Article'];eng;2018;[];0
+;['Article', 'Article', 'Article'];eng;2014;[];0
+;['Article', 'Article', 'Article'];eng;2014;[];0
+;['Preprint', 'Article'];und;2018;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article'];spa;2015;[];0
+;['Article', 'Other literature type'];eng;2014;[];0
+;['Article', 'Other literature type', 'Article'];eng;2018;['610028'];1
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];eng;2016;['4R01NS080946-04'];1
+;['Article', 'Article', 'Article'];eng;2016;['EP/J017582/1'];1
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Preprint', 'Preprint'];eng;2014;[];0
+;['Master thesis', 'Master thesis'];hrv;2017;[];0
+;['Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2016;['269072', '1R15DK103197-01A1', '3K01DK078648-02S1', '5R03DK084166-02'];4
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article', 'Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Preprint'];eng;2016;[];0
+;['Article', 'Article', 'Article'];eng;2017;[];0
+;['Article', 'Article', 'Article'];eng;2014;['5R01AG023522-04', '064947', '081081'];3
+;['Article', 'Article'];eng;2016;['5U2GPS001328-05'];1
+;['Article'];eng;2016;[];0
+;['Article', 'Article'];fra/fre;2014;[];0
+;['Article', 'Review'];eng;2014;['5D43TW000007-17', '5K24AI087399-05'];2
+;['Master thesis'];nor;2018;[];0
+;['Article', 'Article'];eng;2017;['5K23DK102659-03', '2R01DK079970-03A1', 'MR/L020378/1'];3
+;['Doctoral thesis', 'Doctoral thesis'];spa;2016;[];0
+;['Master thesis', 'Master thesis'];spa;2014;[];0
+;['Article', 'Article'];por;2016;[];0
+;['Article', 'Article', 'Other literature type'];eng;2018;[];0
+;['Article'];rus;2015;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article', 'Article', 'Article', 'Article'];eng;2014;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Preprint', 'Preprint'];eng;2015;[];0
+;['Doctoral thesis', 'Doctoral thesis'];spa;2015;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];por;2018;[];0
+;['Article', 'Article'];eng;2014;['1R01DK100974-01', '5U24DK097154-04', '5R01DK087806-05', '5UL1TR000124-04'];4
+;['Other literature type', 'Article', 'Article'];eng;2016;[];0
+;['Article', 'Article', 'Article'];eng;2018;['089251'];1
+;['Article', 'Article'];eng;2015;[];0
+;['Research'];eng;2016;[];0
+;['Doctoral thesis'];eng;2015;[];0
+;['Article', 'Article'];spa;2017;[];0
+;['Article', 'Other literature type', 'Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2018;['675063'];1
+;['Doctoral thesis', 'Doctoral thesis'];esl/spa;2014;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Review', 'Article'];eng;2014;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];und;2017;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article'];eng;2015;[];0
+;['Article', 'Preprint'];eng;2018;[];0
+;['Article', 'Other literature type'];eng;2018;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Other literature type', 'Article'];eng;2018;[];0
+;['Article'];und;2016;[];0
+;['Article', 'Article'];eng;2016;['328977'];1
+;['Article', 'Preprint'];eng;2017;[];0
+;['Article', 'Article'];eng;2016;['5R01HL122829-02', '1R01DK099598-01A1'];2
+;['Article', 'Article'];spa;2014;[];0
+;['Article'];und;2015;[];0
+;['Article', 'Article'];eng;2017;['EP/K503113/1'];1
+;['Article', 'Article'];eng;2016;[];0
+;['Article'];eng;2014;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Preprint', 'Preprint', 'Preprint'];fra/fre;2018;[];0
+;['Doctoral thesis', 'Doctoral thesis'];eng;2016;[];0
+;['Article', 'Article'];esl/spa;2017;[];0
+;['Article'];eng;2016;[];0
+;['Conference object', 'Conference object'];eng;2014;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Article', 'Preprint'];eng;2015;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article', 'Article', 'Article'];eng;2017;['BB/I015531/1', '105344', '251390'];3
+;['Master thesis', 'Article', 'Article', 'Master thesis'];rus;2014;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];eng;2015;['5F32AI096854-03'];1
+;['Article', 'Article'];eng;2016;['280469'];1
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Article', 'Article'];srp;2017;['176006', '43004'];2
+;['Article', 'Article'];eng;2017;[];0
+;['Conference object', 'Conference object'];eng;2017;[];0
+;['Article', 'Article'];und;2017;[];0
+;['Article', 'Article'];spa;2014;[];0
+;['Master thesis'];por;2014;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article'];eng;2017;[];0
+;['Article', 'Article', 'Article'];eng;2014;[];0
+;['Article', 'Article'];eng;2017;['1R01EY024060-01A1'];1
+;['Article', 'Article', 'Article'];eng;2014;[];0
+;['Doctoral thesis', 'Doctoral thesis'];fra/fre;2017;[];0
+;['Other literature type', 'Preprint'];eng;2016;['1255832'];1
+;['Article', 'Preprint'];eng;2015;[];0
+;['Article', 'Article', 'Article'];eng;2017;['5UL1TR001414-02', '1UL1RR033183-01', '5R01DK072124-04', '2U54NS065768-06', '5R01CA113930-04', '3UL1TR000114-04S1'];6
+;['Article', 'Other literature type', 'Article'];eng;2016;['318671', '670467'];2
+;['Article', 'Other literature type'];eng;2014;[];0
+;['Patent'];eng;2015;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article'];eng;2014;[];0
+;['Article', 'Article', 'Article'];spa;2014;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Other literature type', 'Article'];eng;2018;[];0
+;['Article', 'Article', 'Article'];eng;2014;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Part of book or chapter of book', 'Part of book or chapter of book'];cat;2014;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article', 'Article', 'Article', 'Article', 'Article', 'Article'];eng;2017;['EP/K014706/2', 'EP/I019693/1', 'EP/K014854/1', 'EP/K014668/1', 'EP/K014714/1'];5
+;['Article'];rus;2016;[];0
+;['Article', 'Article'];eng;2016;['5R01NS092810-04'];1
+;['Article', 'Article', 'Article'];eng;2014;[];0
+;['Article', 'Article'];eng;2018;['633567'];1
+;['Article'];eng;2018;[];0
+;['Article', 'Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Article'];eng;2015;[];0
+;['Article', 'Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];und;2017;[];0
+;['Master thesis'];cat;2014;[];0
+;['Article', 'Article', 'Article', 'Article'];eng;2015;[];0
+;['Article'];und;2017;[];0
+;['Article', 'Article', 'Article', 'Article'];eng;2018;[];0
+;['Article', 'Article', 'Other literature type', 'Article'];eng;2018;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Doctoral thesis', 'Doctoral thesis'];eng;2015;[];0
+;['Article', 'Data Paper', 'Article', 'Article'];und;2014;[];0
+;['Article', 'Article'];eng;2014;['287763', '1058794'];2
+;['Article', 'Article'];esl/spa;2016;[];0
+;['Article', 'Article', 'Article', 'Article', 'Article', 'Article'];eng;2016;[];0
+;['Doctoral thesis'];eng;2014;[];0
+;['Article', 'Article', 'Article'];eng;2016;[];0
+;['Other literature type', 'Article', 'Article'];swe;2015;[];0
+;['Other literature type'];rus;2017;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Preprint'];eng;2016;[];0
+;['Article', 'Other literature type'];eng;2015;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];eng;2018;['5R01GM020818-33'];1
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article'];eng;2016;['2300169049'];1
+;['Article', 'Article'];eng;2014;['5K01DK087763-05', '1T32AI106699-01A1', '5R03DK101870-02'];3
+;['Article', 'Article', 'Article'];eng;2017;[];0
+;['Article', 'Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Article', 'Article'];eng;2015;['5R01CA186286-02'];1
+;['Other literature type', 'Article'];eng;2018;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];eng;2015;['FT100100078'];1
+;['Master thesis', 'Master thesis'];eng;2016;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Other literature type', 'Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Report'];swe;2014;[];0
+;['Other literature type', 'Article', 'Article'];eng;2015;[];0
+;['Article'];eng;2015;[];0
+;['Doctoral thesis', 'Doctoral thesis'];fra/fre;2015;[];0
+;['Conference object', 'Conference object'];eng;2017;['689772'];1
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];und;2014;[];0
+;['Article', 'Article', 'Article', 'Article', 'Article'];eng;2015;['097429', '211602', '295729'];3
+;['Article'];eng;2014;[];0
+;['Article'];und;2015;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article'];por;2018;[];0
+;['Article', 'Article', 'Article', 'Article', 'Preprint', 'Article'];und;2015;['ST/H005234/1', '321334'];2
+;['Article', 'Article', 'Article'];fra/fre;2016;[];0
+;['Article', 'Article', 'Other literature type', 'Article'];eng;2017;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Other literature type', 'Article', 'Article', 'Article'];eng;2018;['1304305'];1
+;['Article', 'Article', 'Article'];eng;2016;['unidentified'];1
+;['Article', 'Article'];eng;2014;[];0
+;['Other literature type', 'Article'];eng;2018;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article', 'Article', 'Article'];eng;2016;[];0
+;['Article'];eng;2014;[];0
+;['Article', 'Review', 'Article'];eng;2015;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];ita;2015;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];fra/fre;2018;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article', 'Other literature type'];eng;2015;[];0
+;['Conference object', 'Conference object', 'Conference object', 'Conference object', 'Conference object'];eng;2017;[];0
+;['Article', 'Article', 'Article', 'Preprint'];und;2014;[];0
+;['Article', 'Article', 'Article'];por;2014;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Article', 'Article', 'Article'];eng;2018;[];0
+;['Article'];por;2017;[];0
+;['Article', 'Article'];spa;2016;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];esl/spa;2015;[];0
+;['Article', 'Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Bachelor thesis', 'Bachelor thesis'];spa;2017;[];0
+;['Bachelor thesis', 'Bachelor thesis'];und;2015;[];0
+;['Article', 'Article'];spa;2016;[];0
+;['Article', 'Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];fra/fre;2016;[];0
+;['Article', 'Other literature type'];eng;2014;[];0
+;['Article', 'Article'];und;2016;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Preprint', 'Article'];eng;2016;['282378', '147209'];2
+;['Article', 'Article', 'Article'];eng;2016;['1R01NS077923-01A1'];1
+;['Master thesis', 'Master thesis'];spa;2015;[];0
+;['Article', 'Article'];eng;2015;['305404'];1
+;['Bachelor thesis'];spa;2014;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Doctoral thesis', 'Doctoral thesis'];deu/ger;2015;[];0
+;['Article', 'Article'];eng;2014;['305266'];1
+;['Article', 'Other literature type'];eng;2018;[];0
+;['Doctoral thesis', 'Doctoral thesis', 'Doctoral thesis'];fra/fre;2017;[];0
+;['Research', 'Article'];eng;2017;[];0
+;['Research'];jpn;2017;[];0
+;['Article'];und;2016;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Other literature type'];eng;2015;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Doctoral thesis', 'Doctoral thesis', 'Doctoral thesis'];eng;2016;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Article', 'Article'];eng;2015;[];0
+;['Preprint', 'Preprint'];eng;2018;[];0
+;['Article', 'Article'];eng;2017;['5R01RR020115-04', '5R01EB016407-11'];2
+;['Other literature type'];spa;2016;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Other literature type'];spa;2016;[];0
+;['Article', 'Article', 'Article', 'Article', 'Article'];eng;2017;[];0
+;['Article', 'Doctoral thesis'];und;2014;[];0
+;['Other literature type'];eng;2017;[];0
+;['Article', 'Article', 'Article', 'Article'];eng;2017;[];0
+;['Other literature type', 'Article'];eng;2015;[];0
+;['Conference object'];eng;2017;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Preprint'];und;2014;[];0
+;['Conference object', 'Conference object'];eng;2014;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article', 'Article', 'Article', 'Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Article', 'Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];eng;2018;[];0
+;['Article', 'Article', 'Article'];eng;2017;[];0
+;['Article', 'Article', 'Article', 'Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];eng;2014;[];0
+;['Article', 'Article'];spa;2017;[];0
+;['Conference object', 'Article'];eng;2017;['638173'];1
+;['Article', 'Article'];eng;2016;['5DP5OD012132-06', '5UL1TR000117-04', '8P20GM103527-05', '1F31HL126403-01'];4
+;['Preprint', 'Article'];eng;2016;['SFRH/BPD/82059/2011', 'SFRH/BPD/63942/2009', '134639', '115125', '132936'];5
+;['Other literature type', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article'];eng;2017;[];0
+;['Article', 'Article', 'Article', 'Article', 'Article', 'Article', 'Article', 'Article', 'Preprint', 'Article'];eng;2015;['246806'];1
+;['Doctoral thesis', 'Doctoral thesis'];eng;2017;[];0
+;['Article', 'Article'];eng;2016;[];0
+;['Article', 'Other literature type'];eng;2015;[];0
+;['Article'];und;2015;[];0
+;['Other literature type'];eng;2017;[];0
+;['Conference object', 'Article'];und;2017;[];0
+;['Article', 'Article', 'Doctoral thesis'];por;2016;[];0
+;['Article', 'Article'];eng;2018;['3R15GM107864-01A1S1', '5R03DA034323-02'];2
+;['Article', 'Article', 'Article'];eng;2016;[];0
+;['Conference object', 'Conference object'];eng;2017;['652644', '652690', '612425'];3
+;['Article', 'Article'];eng;2015;[];0
+;['Other literature type', 'Article'];eng;2017;[];0
+;['Article', 'Article', 'Article'];eng;2017;['648304'];1
+;['Preprint', 'Other literature type'];eng;2014;[];0
+;['Other literature type', 'Article', 'Article'];eng;2015;[];0
+;['Article', 'Article'];spa;2016;[];0
+;['Preprint', 'Preprint'];eng;2018;[];0
+;['Article', 'Article'];eng;2016;[];0
+id;doc_type;langs;year;projects;no_of_projects

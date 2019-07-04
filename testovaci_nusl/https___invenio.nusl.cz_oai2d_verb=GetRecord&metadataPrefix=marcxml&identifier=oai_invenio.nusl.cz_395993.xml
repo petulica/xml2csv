@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://invenio.nusl.cz/css/oai2.xsl.v1.0" ?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2019-06-30T14:43:54Z</responseDate><request verb="GetRecord" metadataPrefix="marcxml" identifier="oai:invenio.nusl.cz:395993">http://invenio.nusl.cz/oai2d</request><GetRecord>
+<record><header><identifier>oai:invenio.nusl.cz:395993</identifier><datestamp>2019-06-11T05:52:59Z</datestamp><setSpec>global</setSpec></header><metadata><marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic">
+     <marc:leader>00000coc  2200000uu 4500</marc:leader>
+  <marc:controlfield tag="001">395993</marc:controlfield>
+  <marc:controlfield tag="005">20190611102340.0</marc:controlfield>
+  <marc:datafield tag="035" ind1=" " ind2=" ">
+    <marc:subfield code="a">oai:asep.lib.cas.cz:CavUnEpca/0505320</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="041" ind1="0" ind2="7">
+    <marc:subfield code="a">cze</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="046" ind1=" " ind2=" ">
+    <marc:subfield code="k">2018</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="245" ind1="0" ind2="0">
+    <marc:subfield code="a">Lexikografické zpracování sloves pohybu a sloves transportu</marc:subfield>
+    <marc:subfield code="b">The Dictionary Treatment of Verbs of Motion and Verbs of Transport</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="300" ind1=" " ind2=" ">
+    <marc:subfield code="a">7 s.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="520" ind1=" " ind2=" ">
+    <marc:subfield code="a">Příspěvek je věnovaný analýze lexikografického zpracování sloves pohybu a manipulace v současných výkladových slovnících vybraných slovanských jazyků a připravovaném Akademickém slovníku současné češtiny. Jejich lexikografické zpracování přináší několik zásadních otázek; příspěvek je zaměřený zejména na vymezení a zachycení sémantických rysů determinovanost a indeterminovanost a na popis distinktivních rysů jednotlivých sloves a jejich relevance v lexikografickém popisu významu.</marc:subfield>
+    <marc:subfield code="9">cze</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="520" ind1=" " ind2=" ">
+    <marc:subfield code="a">This paper deals with an analysis of dictionary treatment of verbs of motion and verbs of transport in contemporary western Slavic dictionaries and forthcoming Akademický slovník současné češtiny (Academic Dictionary of Contemporary Czech). Lexicographical processing of given verbs raises several issues; the paper focuses on the delimitation and description of semantic features of determinate and indeterminate verbs, and distinctive semantic features of the verbs and their relevance in the lexicographical description of meaning.</marc:subfield>
+    <marc:subfield code="9">eng</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="653" ind1="0" ind2=" ">
+    <marc:subfield code="a">verbs of motion</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="653" ind1="0" ind2=" ">
+    <marc:subfield code="a">verbs of transport</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="653" ind1="0" ind2=" ">
+    <marc:subfield code="a">deﬁnition</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="653" ind1="0" ind2=" ">
+    <marc:subfield code="a">lexicography</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="653" ind1="0" ind2=" ">
+    <marc:subfield code="a">monolingual dictionary</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="655" ind1="7" ind2=" ">
+    <marc:subfield code="a">Příspěvky z konference</marc:subfield>
+    <marc:subfield code="2">NUŠL typ dokumentu</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="711" ind1="2" ind2=" ">
+    <marc:subfield code="a">Slovanská lexikografie počátkem 21. století</marc:subfield>
+    <marc:subfield code="c">Praha (CZ)</marc:subfield>
+    <marc:subfield code="d">20160420</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="720" ind1=" " ind2=" ">
+    <marc:subfield code="a">Kroupová, Magdalena</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="720" ind1=" " ind2=" ">
+    <marc:subfield code="i">Čurdová, Veronika</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="773" ind1="1" ind2=" ">
+    <marc:subfield code="z">978-80-86420-65-3</marc:subfield>
+    <marc:subfield code="t">Slovanská lexikografie počátkem 21. století. Sborník příspěvků z mezinárodní konference. Praha 20. – 22. 4. 2016</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1="4" ind2="0">
+    <marc:subfield code="z">Odkaz na původní záznam</marc:subfield>
+    <marc:subfield code="u">http://hdl.handle.net/11104/0296842</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="856" ind1="4" ind2="0">
+    <marc:subfield code="u">http://www.nusl.cz/ntk/nusl-395993</marc:subfield>
+    <marc:subfield code="z">PID NUŠL</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="909" ind1="C" ind2="O">
+    <marc:subfield code="o">oai:invenio.nusl.cz:395993</marc:subfield>
+    <marc:subfield code="p">global</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="970" ind1=" " ind2=" ">
+    <marc:subfield code="a">0505320</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="980" ind1=" " ind2=" ">
+    <marc:subfield code="a">prispevky_z_konference</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="996" ind1=" " ind2=" ">
+    <marc:subfield code="a">Dokument je dostupný v příslušném ústavu Akademie věd ČR.</marc:subfield>
+    <marc:subfield code="b">Fulltext is available at the institute of the Academy of Sciences.</marc:subfield>
+  </marc:datafield>
+  <marc:datafield tag="998" ind1=" " ind2=" ">
+    <marc:subfield code="a">ustav_pro_jazyk_cesky</marc:subfield>
+  </marc:datafield>
+</marc:record>
+</metadata></record></GetRecord>
+</OAI-PMH>
+

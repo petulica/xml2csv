@@ -12,7 +12,8 @@ from xml.etree import ElementTree as et
 
 def identifier(root):
     field = root.findall(".//{http://www.openarchives.org/OAI/2.0/}identifier")
-    return field[0].text
+    if len(field) > 0:
+        return field[0].text
 
 
 def langs(root):
@@ -23,7 +24,9 @@ def langs(root):
 
 def year(root):
     fields = root.findall(".//dateofacceptance")
-    return fields[0].text[:4]
+    if fields is not None:
+        if fields[0].text:
+            return fields[0].text[:4]
 
 
 def doc_type(root):
