@@ -11,16 +11,26 @@ from xml.etree import ElementTree as et
 
 
 def identifier(root):
-    field = root.findall(".//{http://www.openarchives.org/OAI/2.0/}identifier")
-    if len(field) > 0:
-        return field[0].text
+		for field in root.iter('{http://www.driver-repository.eu/namespace/dri}objIdentifier'):
+			return field.text
+'''
+def identifier(root):
 
+fields = root.findall(".//{http://www.driver-repository.eu/namespace/dri}objIdentifier")
+    for field in fields:
+        return field.attrib["id"]
+    # if len(field) > 0:
+    #     return field[0].text
+'''
 
 def langs(root):
     fields = root.findall(".//language")
     for field in fields:
         return field.attrib["classid"]
-
+'''	
+	for langs in root.iter('language'):
+		return langs.attrib['classid']
+'''
 
 def year(root):
     fields = root.findall(".//dateofacceptance")
@@ -31,9 +41,9 @@ def year(root):
 
 def doc_type(root):
     fields = root.findall(".//instancetype[@classname]")
-    doc = []
+    doc = set()
     for field in fields:
-        doc.append(field.attrib["classname"])
+        doc.add(field.attrib["classname"])
     return doc
 
 
@@ -47,8 +57,8 @@ def projects(root):
 
 
 # if __name__ == "__main__":
-    # langs()
-    # year()
-    # doc_type()
-    # identifier()
-    # projects()
+    # langs(root)
+    # year(root)
+    # doc_type(root)
+    # identifier(root)
+    # projects(root)
