@@ -2,17 +2,15 @@ import os
 from xml.etree import ElementTree as et
 import csv
 
-
-from xml2csv_openaire import identifier, doc_type, langs, year, projects
+from xml_nusl.xml2csv_openaire import identifier, doc_type, langs, year, projects
 
 BASE = os.path.dirname(__file__)
 directory = os.path.join(BASE, "testovaci_nusl")
 xml_path = "H:/openaire_data"
 
-with open('OpenAIRE.csv', 'a',  newline='') as csvFile:
+with open('OpenAIRE.csv', 'a', newline='') as csvFile:
     writer = csv.writer(csvFile, delimiter=";")
     writer.writerow(["id", "doc_type", "langs", "year", "projects", "no_of_projects"])
-
 
 
 # input_path = "/Users/xah/web/xahlee_info/python/"
@@ -41,6 +39,7 @@ def extracting_data(file):
             err.write(f"{file}: {str(e)} \n")
     csvFile.close()
 
+
 i = 1
 for dir_path, subdir_list, file_list in os.walk(xml_path):
     for fname in file_list:
@@ -49,9 +48,6 @@ for dir_path, subdir_list, file_list in os.walk(xml_path):
         full_path = os.path.join(dir_path, fname)
         extracting_data(full_path)
 
-
-
-#pokud skript vyhodí chybu, tak úkoly vyřešené před pádem se uloží do mezipaměti a při novém spuštění skriptu se tyto řádky vytisknou do csv, takže např. se může do csv zapsat 5x záhlaví
+# pokud skript vyhodí chybu, tak úkoly vyřešené před pádem se uloží do mezipaměti a při novém spuštění skriptu se tyto řádky vytisknou do csv, takže např. se může do csv zapsat 5x záhlaví
 
 csvFile.close()
-
