@@ -19,42 +19,26 @@ def make_headers():
                          "projects", "no_of_projects"])
 
 
-# input_path = "/Users/xah/web/xahlee_info/python/"
-
 def extracting_data(file):
-    # for file in os.listdir(xml_path):
-
-    # with open("files.txt", 'a', newline='') as txtfile:
-    #     txtfile.write(f"{file}\n")
-
     print(file)
     try:
         with open(file, encoding="utf8") as f:
             tree = et.parse(f)
             document_root = tree.getroot()
-            results = document_root.findall("./results/result")
-            print(results)
-            print(len(results))
-            for result in results:
-                print(result)
-
-                row = [identifier(result), doc_type(result), langs(
+            row = [identifier(result), doc_type(result), langs(
                     result), year(result), projects(result), len(projects(
                     result))]
-                print(row)
+            # print(row)
 
-
-                with open('OpenAIRE3.csv', 'a', newline='') as csvFile:
-                    writer = csv.writer(csvFile, delimiter=";")
-                    writer.writerow(row)
+            with open('NUSL_complete.csv', 'a', newline='') as csvFile:
+                        writer = csv.writer(csvFile, delimiter=";")
+                        if int(row[3]) >= 2014 and int(row[3]) != 2019:
+                            writer.writerow(row)
 
     except Exception as err:
         print(err)
-        with open("errors_aire.txt", "a") as error_file:
-            # error_file.write(f"{file}: {str(err)} /n")
-            error_file.write(f"{file}: {str(err)}")
-        # csvFile.close()
-
+        with open("errors_nusl.txt", "a") as error_file:
+            error_file.write(f"{file}: {str(err)} /n")
 
 # PROGRAM START
 make_headers()
